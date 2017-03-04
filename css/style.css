@@ -1839,6 +1839,10 @@ h4 {
   background-color: rgba(0, 47, 102, 0.50)
 }
 
+ul {
+  list-style-type: none;
+}
+
 .service-list li:hover .our-services-container,
 .service-list-2 li:hover .our-services-container,
 .service-grid li:hover .our-services-container {
