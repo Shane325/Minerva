@@ -313,13 +313,13 @@ jQuery(document).ready(function ($) {
 							infowindow = $(this).gmap3({get: {name: "infowindow"}});
 							if (infowindow) {
 								infowindow.open(map, marker);
-								infowindow.setContent("Alexander Hamilton Bridge");
+								infowindow.setContent("1485 Bayshore Boulevard, San Francisco, CA");
 							}
 							else {
 								$(this).gmap3({
 									infowindow: {
 										anchor: marker,
-										options: {content: "Alexander Hamilton Bridge"}
+										options: {content: "1485 Bayshore Boulevard, San Francisco, CA"}
 									}
 								});
 							}
