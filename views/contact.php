@@ -153,32 +153,30 @@
           </div>
         </div>
       </div>
-      <div class="section section-contact">
+      <div class="section section-contact mt-10">
         <div class="container">
           <div class="row">
             <div class="col-sm-6">
               <div class="mb-2">
-                <div id="map-canvas" data-address="Alexander Hamilton Bridge" data-height="370" data-width="100%" data-zoom="16" data-map_type="roadmap" data-map_style="default"></div>
+                <div id="map-canvas" data-address="1485 Bayshore Boulevard, San Francisco, CA" data-height="370" data-width="100%" data-zoom="16" data-map_type="roadmap" data-map_style="default"></div>
               </div>
             </div>
             <div class="col-sm-6">
               <div class="mb-2">
-                <h1>
-										We always looking for new collaborations, talents and partners
-									</h1>
+                <h1>Get in touch</h1>
               </div>
               <div class="contact-info" id="form">
-                <p><i class="fa fa-map-marker"></i>14 Tottenham Road, London, England.</p>
-                <p><i class="fa fa-phone"></i> (102) 6666 8888</p>
-                <p><i class="fa fa-envelope"></i> info@zooka.io</p>
-                <p><i class="fa fa-fax"></i> (102) 8888 9999</p>
-                <p><i class="fa fa-clock-o"></i> Mon – Sat: 9:00 – 18:00</p>
+                <p><i class="fa fa-map-marker"></i>&nbsp; 1485 Bayshore Blvd. San Francisco, CA 94124</p>
+                <p><i class="fa fa-phone"></i> &nbsp; +1 (415) 825-5137</p>
+                <p><i class="fa fa-envelope"></i> &nbsp; info@minervaconstructioninc.com</p>
+                <p><i class="fa fa-fax"></i> &nbsp; +1 (415) 825-5137</p>
+                <p><i class="fa fa-clock-o"></i> &nbsp; Mon – Sat: 9:00 – 18:00</p>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="section section-contact">
+      <div class="section section-contact mt-10">
         <div class="container">
           <div class="row">
             <div class="col-sm-12">
@@ -232,7 +230,7 @@
         </div>
       </div>
     </div>
-    <footer class="site-footer">
+    <footer class="site-footer mt-10">
       <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-6">
@@ -290,7 +288,7 @@
   </div>
   <a class="scrollup"><i class="fa fa-angle-up"></i></a>
 
-  <script type='text/javascript' src='//maps.google.com/maps/api/js?sensor=false&#038;language=en&#038;ver=4.5'></script>
+  <script type='text/javascript' src='//maps.google.com/maps/api/js?key=AIzaSyD601vObzcjJV8qpjZU3oFIsguSxlDXD4A&#038;language=en&#038;ver=4.5'></script>
   <script type='text/javascript' src='../js/jquery.min.js'></script>
   <script type='text/javascript' src='../js/jquery-migrate.min.js'></script>
   <script type='text/javascript' src='../js/bootstrap.min.js'></script>
