@@ -4,6 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+  <meta name="description" content="Minerva Construction is a San Francisco general contractor that specializes in public works and infrastructure projects."/>
   <link rel="shortcut icon" href="../images/favicon.ico" />
   <title>Contact &#8211; Minerva Construction</title>
 
