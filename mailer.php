@@ -10,7 +10,7 @@ $message = trim($_POST["message"]);
 
 // Check the data
  if (empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        header("Location: http://162.243.137.219/views/contact.php?success=-1#form");
+        header("Location: http://minervaconstructioninc.com/views/contact.php?success=-1#form");
 //        header("Location: http://localhost/minerva/views/contact.php?success=-1#form");
         exit;
     }
@@ -35,7 +35,7 @@ $email_headers = "From: $name <$email>";
 mail($recipient, $subject, $email_content, $email_headers);
 
 // Redirect to the index.html page with success code
-header("Location: http://162.243.137.219/views/contact.php?success=1#form");
+header("Location: http://minervaconstructioninc.com/views/contact.php?success=1#form");
 //header("Location: http://localhost/minerva/views/contact.php?success=1#form");
 
 
