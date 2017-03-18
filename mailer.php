@@ -17,7 +17,7 @@ $message = trim($_POST["message"]);
 
 
 // Set the recipient email address
-$recipient = "shane@buildeasyapp.com";
+$recipient = "noel@minervaconstructioninc.com;brian@minervaconstructioninc.com";
 
 // Set the email subject
 $subject = "New contact from $name";
