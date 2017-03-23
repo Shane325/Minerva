@@ -176,9 +176,10 @@
               <div class="contact-info" id="form">
                 <p><i class="fa fa-map-marker"></i>&nbsp; 1485 Bayshore Blvd. San Francisco, CA 94124</p>
                 <p><i class="fa fa-phone"></i> &nbsp; +1 (415) 825-5137</p>
-                <p><i class="fa fa-envelope"></i> &nbsp; info@minervaconstructioninc.com</p>
                 <p><i class="fa fa-fax"></i> &nbsp; +1 (415) 825-5147</p>
-                <p><i class="fa fa-clock-o"></i> &nbsp; Mon – Sat: 9:00 – 18:00</p>
+                <p><i class="fa fa-envelope"></i> &nbsp;<a href="mailto:info@minervaconstructioninc.com" target="_top"> info@minervaconstructioninc.com</a></p>
+                <p><i class="fa fa-envelope"></i> &nbsp; estimating@minervaconstructioninc.com</p>
+                <p><i class="fa fa-clock-o"></i> &nbsp; Mon – Sat: 6:00 – 18:00</p>
                 <hr>
                 <p><i class="fa fa-info-circle"></i> &nbsp; LBE #: CMD101816915</p>
                 <p><i class="fa fa-info-circle"></i> &nbsp; SBE #: 1786735</p>
